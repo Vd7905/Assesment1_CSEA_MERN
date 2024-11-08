@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+#resume{
+    height:65%;
+    width: 55%;
+    margin-left: 25%;
+    margin-right: 15%;
+}
+.wrapper{
+    align-items: center;
+    
+}
+#resume input{
+    width: 100%;
+}
+#resume button{
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+#resume h2{
+    text-align: center;
+}
+
+.resume{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: col;
+}
+#img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
